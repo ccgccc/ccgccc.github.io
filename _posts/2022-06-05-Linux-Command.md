@@ -3,7 +3,7 @@ title: "原创 Linux 宝典"
 date: 2022-06-05
 ---
 
-# Linux Command
+# Linux
 * TOC  
 {:toc}
 
