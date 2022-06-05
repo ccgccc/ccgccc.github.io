@@ -1,13 +1,14 @@
 ---
-title: "CCG的个人小站"
+title: "欢迎来到CCG的个人博客"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Less is more than more.
 
-<!-- <ul>
+## Posts
+<ul>
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
-</ul> -->
+</ul>
