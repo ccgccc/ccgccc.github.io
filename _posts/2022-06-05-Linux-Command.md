@@ -494,7 +494,7 @@ yum install mlocate
 // 更新 locate 数据库(默认每天更新一次)
 updatedb
 ```
-**Ref:**
+**Ref:**  
 [command line - Use "locate" under some specific directory? - Ask Ubuntu](https://askubuntu.com/questions/33280/use-locate-under-some-specific-directory)  
 [Linux locate命令 | 菜鸟教程](https://www.runoob.com/linux/linux-comm-locate.html)
 #### df
