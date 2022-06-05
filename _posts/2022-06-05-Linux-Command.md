@@ -1,5 +1,6 @@
-# Linux
-[toc]
+# Linux Command
+* TOC
+{:toc}
 
 **Explanation**
 ```
@@ -206,7 +207,7 @@ htop : Interactive Process viewer
 
 top : Interactive Process viewer
 ```
-**Ref:** [Compare top vs htop | CodeAhoy](https://codeahoy.com/compare/top-vs-htop)
+**Ref:** [Compare top vs htop | CodeAhoy](https://codeahoy.com/compare/top-vs-htop)  
 <br/>
 
 
